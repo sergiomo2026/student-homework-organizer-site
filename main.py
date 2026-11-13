@@ -11,8 +11,10 @@ set_site_information(
                 "keep track of due dates, organize work by class, and track "
                 "completed assignments.",
     sources="Drafter documentation and class materials.",
-    planning=[],
-    links=[]
+    planning=["Copy of CS1 Final Project 1_ Design (1).docx", 
+             "Setgio Morales CS1 Final Project 0_ Pick a Problem (1) (1).docx"],
+    links=["https://github.com/sergiomo2026/student-homework-organizer-site",
+        "https://sergiomo2026.github.io/student-homework-organizer-site/"]
 )
 
 hide_debug_information()
